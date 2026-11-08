@@ -1,3 +1,15 @@
+# Reproduction notice
+
+> [!IMPORTANT]
+> **This repository is not the original project.**
+>
+> Upstream: [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) (MIT)
+> This is a study reproduction and teardown of that skill. It is not affiliated with or endorsed by Cloudflare, and all credit for the original work belongs to its authors.
+>
+> 本仓库是对 Cloudflare security-audit skill 的学习性复刻与拆解，著作权归原作者所有。
+
+---
+
 # security-audit
 
 A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.
